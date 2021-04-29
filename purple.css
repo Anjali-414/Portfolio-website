@@ -1,0 +1,32 @@
+:root{
+    --mainColor: #e4dcf1;
+    --secondaryColor: #8874a3;
+    --borderColor: black;
+    --mainText:black;
+    --secondaryText:#4b5156;
+    --themeDotBorder:#24292e;
+}
+
+#pre-shadow{
+    background-color:#c1a1d3 ;
+    width: 300px;
+    height: 180px;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+#settings-note{
+    color: white;
+}
+.about-me p{
+    color: white;
+
+}
+
+.about-me a{
+    color: #f6cd61;
+}
+
+.social-links a{
+    color: #f6cd61;
+}
